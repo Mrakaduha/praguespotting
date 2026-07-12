@@ -1,36 +1,36 @@
 const pairs=[
 
-["mlejn1.jpg","mlejn2.jpg"],
+["mill1.jpg","mill2.jpg"],
 
-["andel1.jpg","andel2.jpg"],
+["angel1.jpg","angel2.jpg"],
 
-["dabel1.jpg","dabel2.jpg"],
+["devil1.jpg","devil2.jpg"],
 
-["deti2.jpg","deti1.jpg"],
+["children2.jpg","children1.jpg"],
 
-["tvar1.jpg","tvar2.jpg"],
+["face1.jpg","face2.jpg"],
 
-["hlava1.jpg","hlava2.jpg"],
+["head1.jpg","head2.jpg"],
 
-["panna1.jpg","panna2.jpg"],
+["mermaid1.jpg","mermaid2.jpg"],
 
-["pozorlev1.jpg","pozorlev2.jpg"],
+["lion1.jpg","lion2.jpg"],
 
-["prah1.jpg","prah2.jpg"],
+["threshold1.jpg","threshold2.jpg"],
 
-["pristava.jpg","pristal.jpg"],
+["landing.jpg","landed.jpg"],
 
-["vlk1.jpg","vlk2.jpg"],
+["wolf1.jpg","wolf2.jpg"],
 
-["vezdi1.jpg","vezdi2.jpg"],
+["wall1.jpg","wall2.jpg"],
 
-["rybar1.jpg","rybar2.jpg"],
+["fisherman1.jpg","fisherman2.jpg"],
 
-["chobotnice1.jpg","chobotnice2.jpg"],
+["octopus1.jpg","octopus2.jpg"],
 
-["kytara1.jpg","kytara2.jpg"],
+["guitar1.jpg","guitar2.jpg"],
 
-["rano2.jpg","rano1.jpg"],
+["morning2.jpg","morning1.jpg"],
 
 ];
 
